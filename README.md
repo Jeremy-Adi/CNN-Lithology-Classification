@@ -1,6 +1,9 @@
 # CNN-Lithology-Classification
 Case Poseidon Field, Browse Basin : Preliminary Study of Lithology Classification Using Convolutional Neural Network (CNN) Automation Principle
 
+Poseidon Field, Browse Basin is a field managed by ConocoPhillips (Browse Basin) Pty Ltd.
+Open source data can be accessed on the Public Geoscience Data Drive. (https://drive.google.com/drive/folders/0B7brcf-eGK8Cbk9ueHA0QUU4Zjg)
+
 SOURCE CODING (Python) FOR LITHOLOGY CLASSIFICATION / PREDICTION POSEIDON FIELD, BROWSE BASIN, USING CONVOLUTIONAL NEURAL NETWORK AUTOMATION PRINCIPLE
 by Jeremy Adi Padma Nagara, Teknik Geofisika Universitas Pertamina, 2020
 jeremyadi55@gmail.com
@@ -26,4 +29,3 @@ HOW TO USE :
 	f. Test Model (Predict)
 3. "02_Calculate The Accuracy Of Prediction.py" and "03_Visualizing Predicted Lithology.py" should be combined because of some variable in
 "03_Visualizing Predicted Lithology.py" are belong to "02_Calculate The Accuracy Of Prediction.py"
-
